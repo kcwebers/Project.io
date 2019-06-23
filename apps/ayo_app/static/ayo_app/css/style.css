@@ -1,0 +1,36 @@
+.toppic{
+    height: 400px;
+    width: 100%;
+    z-index: -1;
+}
+
+.toppic2{
+    height: 180px;
+    width: 100%;
+    z-index: -1;
+}
+
+/* .header{
+
+    
+    font-size: 40pt;
+    position: absolute; bottom: 690px;
+    position: absolute; left: 50px;
+    color: rgb(219, 3, 3);
+    position: relative;
+    
+
+
+} */
+
+/* .credits{
+    text-align: center;
+    
+} */
+
+.start{
+  background-color: lightseagreen;
+  border: 1px solid lightseagreen;
+  padding: 10px;
+  box-shadow: 5px 5px 8px grey;
+}
